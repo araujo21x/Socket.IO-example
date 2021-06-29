@@ -3,4 +3,4 @@ Exemplos sobre Socket.IO com javaScript retirados no site do <a href='https://so
 
 ## Projetos
 
-- [Chat Básico](./chat\example)
+- [Chat Básico](https://github.com/araujo21x/Socket.IO-example/tree/main/chat%20example).
